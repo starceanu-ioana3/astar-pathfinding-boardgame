@@ -114,9 +114,9 @@ The tournament tree can contain two types of nodes:
 * match nodes (><): used to pair up players who will compete against each other.
 
 There are 4 subtree cases to consider during conversion:<br>
-* **Case 1:** ![Figura 1: Conversia BST în Arbore TournamentNode](../assets/image1.png)
-* **Case 2:** ![Figura 2: Conversia BST în Arbore TournamentNode](../assets/image2.png)
-* **Case 3:** ![Figura 3: Conversia BST în Arbore TournamentNode](../assets/image3.png)
+* **Case 1:** ![Figura 1: Conversia BST în Arbore TournamentNode](assets/image1.png)
+* **Case 2:** ![Figura 2: Conversia BST în Arbore TournamentNode](assets/image2.png)
+* **Case 3:** ![Figura 3: Conversia BST în Arbore TournamentNode](assets/image3.png)
 * **Case 4:** The subtree contains leaf nodes of type match. In this case, the same transformations as in the previous cases are applied.
 
 > *Note: In the diagrams above, J refers to Jucător (Player), corresponding to P (Player 1, Player 2) in the English documentation.*
