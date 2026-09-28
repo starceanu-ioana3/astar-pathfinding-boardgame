@@ -1,8 +1,0 @@
-J7 - 99.80: [0, 0] -- [0, 1] -- [1, 1] -- [1, 2] -- [2, 2] -- [2, 1] -- [2, 0]
-J4 - 79.90: [0, 0] -- [0, 1] -- [1, 1] -- [1, 2] -- [0, 2]
-J9 - 8.60: [3, 4] -- [3, 3] -- [2, 3] -- [1, 3] -- [1, 4] -- [0, 4] -- [0, 5]
-J5 - 43.30: [1, 1] -- [1, 2] -- [2, 2] -- [2, 3] -- [3, 3] -- [3, 4]
-J0: Mission could not be executed
-J1: Mission could not be executed
-J2: Mission could not be executed
-J8: Mission could not be executed
