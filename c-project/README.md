@@ -170,11 +170,11 @@ J2 17.00
 ## Step 3
 To complete missions, players find the shortest path using the **A* algorithm**. The processing order in the priority queue (Min-Heap) relies on the evaluation function:
 
-$$f(n) = g(n) + \text{min\_cost} \times h(n)$$
+$$f(n) = g(n) + \text{min \_cost} \times h(n)$$
 Where:
 * $g(n)$: Exact cost from the start node to node $n$.
 * $h(n)$: Manhattan distance heuristic to destination $d$, defined as $|n.x - d.x| + |n.y - d.y|$.
-* $\text{min\_cost}$: Minimum weight in the grid cost grid, ensuring the heuristic remains admissible for an optimal parent.
+* $\text{min \_cost}$: Minimum weight in the grid cost grid, ensuring the heuristic remains admissible for an optimal parent.
 
 ### Data Structures & Functions
 * **Priority Queue (Min-Heap):** Pending nodes are stored in a Min-Heap ordered by their total estimated cost $f(n)$.
